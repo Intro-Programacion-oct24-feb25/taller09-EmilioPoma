@@ -1,4 +1,4 @@
-# Taller 9 (LaboratoriO)
+# Taller 9 (Laboratorio)
 Integrantes: Jorge Ayala, Jorge Diaz, Daniel Idrovo y Emilio Poma
 ## Construcción de programas usando arreglos unidimensionales
 
