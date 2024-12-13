@@ -1,4 +1,5 @@
-# Taller 9 (Laboratorio)
+# Taller 9 (LaboratoriO)
+Integrantes: Jorge Ayala, Jorge Diaz, Daniel Idrovo y Emilio Poma
 ## Construcción de programas usando arreglos unidimensionales
 
 Revisar los ejercicios propuestos en el proyecto de Netbeans denominado: **EjerciciosT9**
